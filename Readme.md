@@ -6,8 +6,8 @@ max score 830
 max score unlim
 
 before run, install opencv with following command in terminal 
-'sudo apt-get install python3-opencv'
+`sudo apt-get install python3-opencv`
 
 install requirements with following command 
-'pip install requirements.txt'
+`pip install requirements.txt`
 
